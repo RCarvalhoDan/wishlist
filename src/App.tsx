@@ -1,7 +1,9 @@
+import Router from "./routes";
+
 function App() {
   return (
     <>
-      <h1>Wishlist</h1>
+      <Router />
     </>
   );
 }
